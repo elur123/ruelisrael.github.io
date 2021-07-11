@@ -117,9 +117,7 @@ body {
     text-decoration: none;
   }
 
-  #main {
-    margin-left: 300px;
-  }
+
 
   @media (max-width: 1199px) {
     #header {
